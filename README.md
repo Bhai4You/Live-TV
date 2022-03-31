@@ -54,7 +54,7 @@
 - when open app start timer to 2sec 
 - when 2 sec complete open live stream on MX Player with api request.
 - thats it !!
-- if you want full intruction about how to make application or want code just rise issue.
+- if you want full intruction about how to make application or want code / API links just rise issue.
 
 
 ### Gujarati News Channels
